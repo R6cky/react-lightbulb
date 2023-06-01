@@ -2,7 +2,7 @@ import { LightBulbStyle } from "./style";
 import lightBulbOn from "../../assets/onEdit1.png";
 import lightBulbOff from "../../assets/ofEdit1.png";
 import buttonOnOff from "../../assets/button.png";
-
+import eyesOpen from "../../assets/eyes.png";
 export const LightBulb = ({ isOn, onOff }) => {
   return (
     <LightBulbStyle>

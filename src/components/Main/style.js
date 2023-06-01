@@ -15,6 +15,13 @@ export const LightBulbStyle = styled.div`
     width: 400px;
     height: 500px;
 
+    .eyes-open {
+      width: 100px;
+      height: 100px;
+      position: relative;
+      top: 50px;
+    }
+
     img {
       width: 400px;
       height: 600px;
