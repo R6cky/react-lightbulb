@@ -6,6 +6,4 @@ export const GlobalStyle = createGlobalStyle`
         background: black;
     }
 
-
-
 `;
